@@ -31,6 +31,8 @@ pip install ScrapyElasticSearch
 git clone https://github.com/sunmh207/itkedian-spider.git
 ```
 
+修改CourseSpider/CourseSpider/settings.py.dist 为 settings.py
+
 ### 运行
 
 命令格式为: scrapy crawl <爬虫name>, 如
